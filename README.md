@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RyanRaushan
+- 👋 Hi, I’m Raushan Kumar
 - 🌱 I’m currently learning in Hemvati Nandan Bahuguna Garhwal University,
 - 💞️ I’m looking for an internship.
 - 📫 ryanraushan513@gmail.com
