@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ryan-raushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-raushan" height="30" width="40" /></a>
-<a href="https://instagram.com/iryanraushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iryanraushan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iryanraushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iryanraushan" height="30" width="40" /></a>
+<a href="https://instagram.com/rryan_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iryanraushan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ryan_mandal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iryanraushan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iryanraushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iryanraushan" height="30" width="40" /></a>
 </p>
 
