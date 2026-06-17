@@ -7,8 +7,6 @@ On the frontend, I focus on optimisations like memoization, lazy loading, code s
  
 Outside of work, I actively solve DSA problems on LeetCode and have contributed to open-source projects on GitHub. I'm always looking to learn and take on work that challenges me technically.
 
- Skills
- 
 ### Languages
 
 `JavaScript` · `TypeScript` · `Python` · `SQL`
